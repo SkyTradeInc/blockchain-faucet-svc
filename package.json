@@ -2,7 +2,7 @@
   "name": "ledgeriumfaucet",
   "version": "1.0.0",
   "description": "This repo interacts with testnets i.e. 'Toorak', 'Flinders' to transfer test XLG to transact with Ledgerium testnets using any DApp including Ledgerium Wallet.",
-  "main": "service.js",
+  "main": "index.js",
   "scripts": {
     "precommit": "grunt eslint",
     "prepush": "grunt eslint",
